@@ -1,6 +1,8 @@
 CookieGuard
 ===========
 
+Cookie Guard helps site owners comply with the new EU Cookie Law
+
 On May 26th 2012 a new EU directive comes into force requiring website owners to provide clear and comprehensive information to site visitors about cookies used and how they may refuse them.
 Site owners will therefore now be obliged to:-
   - tell people that the cookies are there.
