@@ -202,7 +202,7 @@
                 }
 
                 if (!cookieFound)
-                    if (allCookies[i].indexOf($.cookieguard.settings.cookiePrefix) === 0)
+                    if (allCookies[i].indexOf($.cookieguard.settings.cookiePrefix) === 0 || navigator.CookiesOK)
                         cookieFound = true;
 
                 if (!cookieFound) {
